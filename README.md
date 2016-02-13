@@ -2,29 +2,22 @@
 A curated collection of the best and latest web development resources from around the web, updated weekly since February 2016.
 
 ## JavaScript
-### Concepts
-### Tutorials
+See https://github.com/kchia/web-dev-resources/wiki/JavaScript
 
 ## React
-### Concepts
-### Tutorials
+See https://github.com/kchia/web-dev-resources/wiki/React
 
 ## AngularJS
-### Concepts
-### Tutorials
+See https://github.com/kchia/web-dev-resources/wiki/AngularJS
 
 ## Angular 2
-### Concepts
-### Tutorials
+See https://github.com/kchia/web-dev-resources/wiki/Angular 2
 
 ## Node.js
-### Concepts
-### Tutorials
+See https://github.com/kchia/web-dev-resources/wiki/Node.js
 
 ## Other JavaScript Frameworks/Libraries
-### Concepts
-### Tutorials
+See https://github.com/kchia/web-dev-resources/wiki/
 
 ## General Web Development Topics
-### Concepts
-### Tutorials
+See https://github.com/kchia/web-dev-resources/wiki/JavaScript
