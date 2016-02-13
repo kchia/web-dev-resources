@@ -1,2 +1,2 @@
 # web-dev-resources
-A collection of useful web development resources
+A collection of the best and latest web development resources
