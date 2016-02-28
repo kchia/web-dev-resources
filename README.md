@@ -28,3 +28,4 @@ See the [wiki page.](https://github.com/kchia/web-dev-resources/wiki/General-Web
 - https://github.com/sorrycc/awesome-javascript
 - https://github.com/sindresorhus/awesome
 - https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript
+- https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md
