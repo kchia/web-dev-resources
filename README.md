@@ -1,5 +1,5 @@
 # web-dev-resources
-A curated collection of the best and latest web development resources from around the web, updated weekly since February 2016.
+A curated collection of the best and latest web development resources from around the web, updated weekly.
 
 ## JavaScript
 See the [wiki page.](https://github.com/kchia/web-dev-resources/wiki/JavaScript)
