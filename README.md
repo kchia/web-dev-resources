@@ -22,7 +22,7 @@ See the [wiki page.](https://github.com/kchia/web-dev-resources/wiki/Other-JavaS
 ## General Web Development Topics
 See the [wiki page.](https://github.com/kchia/web-dev-resources/wiki/General-Web-Development-Topics)
 
-## Other Lists
+## Other Useful Lists
 - https://github.com/dypsilon/frontend-dev-bookmarks
 - https://github.com/dypsilon/awesome-nodejs
 - https://github.com/sorrycc/awesome-javascript
